@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Debug\Envio de Emails.exe.config
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Debug\Envio de Emails.exe
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Debug\Envio de Emails.pdb
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio de Emails.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio de Emails.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio de Emails.exe
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio de Emails.pdb
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio_de_Emails.txt_Para.resources
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio_de_Emails.Properties.Resources.resources
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Debug\Envio de Emails.csproj.GenerateResource.cache

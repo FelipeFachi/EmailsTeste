@@ -1,0 +1,181 @@
+﻿Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Criando a origem de EventLog Service_Email no log Application...
+Revertendo o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Restaurando o log de eventos para o estado anterior da origem Service_Email.
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Instalando o serviço Service_Email...
+Serviço Service_Email foi instalado com êxito.
+Criando a origem de EventLog Service_Email no log Application...
+Confirmando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Desinstalando o assembly 'C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.InstallLog
+   assemblypath = C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+Removendo a origem do EventLog Service_Email.
+Serviço Service_Email está sendo removido do sistema...
+Serviço Service_Email foi removido com êxito do sistema.

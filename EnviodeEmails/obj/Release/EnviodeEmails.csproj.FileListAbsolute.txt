@@ -1,0 +1,22 @@
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\Envio_de_Emails.txt_Para.resources
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\Envio_de_Emails.ProjectInstaller.resources
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Release\EnviodeEmails.exe.config
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Release\EnviodeEmails.exe
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\bin\Release\EnviodeEmails.pdb
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.Properties.Resources.resources
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.exe
+C:\Users\felip\source\repos\Envio de Emails\Envio de Emails\obj\Release\EnviodeEmails.pdb
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe.config
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.exe
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\bin\Release\EnviodeEmails.pdb
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\Envio_de_Emails.txt_Para.resources
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\Envio_de_Emails.ProjectInstaller.resources
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.Properties.Resources.resources
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.exe
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.pdb
+C:\Users\felip\source\repos\EnviodeEmails\EnviodeEmails\obj\Release\EnviodeEmails.csproj.AssemblyReference.cache
